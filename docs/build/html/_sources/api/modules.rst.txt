@@ -1,0 +1,7 @@
+mem_679_minesweeper_jo_2
+========================
+
+.. toctree::
+   :maxdepth: 4
+
+   mem_679_minesweeper_jo_2
